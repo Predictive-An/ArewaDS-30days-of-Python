@@ -1,0 +1,8 @@
+{"Variable Name":"Area","Role":"Feature","Type":"Integer","Demographic":null,"Description":"Returns the number of pixels within the boundaries of the rice grain","Units":"px","Missing Values":"no"}
+{"Variable Name":"Perimeter","Role":"Feature","Type":"Continuous","Demographic":null,"Description":"Calculates the circumference by calculating the distance between pixels around the boundaries of the rice grain","Units":"px","Missing Values":"no"}
+{"Variable Name":"Major_Axis_Length","Role":"Feature","Type":"Continuous","Demographic":null,"Description":"The longest line that can be drawn on the rice grain, i.e. the main axis distance, gives","Units":null,"Missing Values":"no"}
+{"Variable Name":"Minor_Axis_Length","Role":"Feature","Type":"Continuous","Demographic":null,"Description":"The shortest line that can be drawn on the rice grain, i.e. the small axis distance, gives","Units":null,"Missing Values":"no"}
+{"Variable Name":"Eccentricity","Role":"Feature","Type":"Continuous","Demographic":null,"Description":"It measures how round the ellipse, which has the same moments as the rice grain, is","Units":null,"Missing Values":"no"}
+{"Variable Name":"Convex_Area","Role":"Feature","Type":"Integer","Demographic":null,"Description":"Returns the pixel count of the smallest convex shell of the region formed by the rice grain","Units":null,"Missing Values":"no"}
+{"Variable Name":"Extent","Role":"Feature","Type":"Continuous","Demographic":null,"Description":"Returns the ratio of the region formed by the rice grain to the bounding box","Units":null,"Missing Values":"no"}
+{"Variable Name":"Class","Role":"Target","Type":"Binary","Demographic":null,"Description":"Cammeo and Osmancik","Units":null,"Missing Values":"no"}
